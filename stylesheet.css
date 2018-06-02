@@ -1,0 +1,45 @@
+.socialtext{
+    font-size: 13px;
+    margin: 0px; 
+    text-align: left;
+    color: darkslategray;
+    
+}
+
+.twitter{
+   color: #1DA1F2; 
+}
+
+.instagram{
+    color:#ffc838;
+}
+
+.facebook{
+    color:#3B5998;
+}
+
+.email{
+    color:#DB4437;
+}
+
+.linkedin{
+     
+    
+}
+
+.socialtext{
+    
+}
+
+.espedito{
+    color: orange;
+      
+}
+
+.github{
+    
+}
+
+prof_pic{
+    border-radius: 50%;
+}
